@@ -1,0 +1,63 @@
+# מאור איטום גגות — Generative Engine Optimization Map
+
+> מאור איטום גגות - איטום גגות מקצועי עם אחריות. הגן על הבית שלך מפני נזקי מזג האוויר. שירות מקצועי ואמין לאיטום גגות בכל סוגי המבנים.
+
+---
+
+## Pages
+
+### דף הבית
+https://-e7ddd846.zappy5.app
+מאור איטום גגות - איטום גגות מקצועי עם אחריות. הגן על הבית שלך מפני נזקי מזג האוויר. שירות מקצועי ואמין לכל סוגי המבנים.
+
+### שירותים
+https://-e7ddd846.zappy5.app/services
+שירותי איטום גגות מקצועי - איטום גגות רעפים, גגות שטוחים, תיקון דליפות ועוד. פתרונות מקיפים עם אחריות לכל סוגי המבנים.
+
+### אודות
+https://-e7ddd846.zappy5.app/about
+מאור איטום גגות - חברת איטום גגות מומלצת עם ניסיון של שנים. צוות מקצועי, ציוד מתקדם ושירות אמין לכל סוגי המבנים.
+
+### צור קשר
+https://-e7ddd846.zappy5.app/contact
+צרו קשר עם מאור איטום גגות לקבלת ייעוץ מקצועי והצעת מחיר. זמינים עבורכם לכל שאלה ובקשה לשירותי איטום גגות מקצועי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e7ddd846.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e7ddd846.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e7ddd846.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מאור איטום גגות
+מאור איטום גגות - איטום גגות מקצועי עם אחריות. הגן על הבית שלך מפני נזקי מזג האוויר. שירות מקצועי ואמין לאיטום גגות בכל סוגי המבנים.
+
+## Services/Products
+- איטום גגות
+- איטום גגות מקצועי
+- הגנה מפני נזקי מזג האוויר
+- שירותי איטום עם אחריות
+
+## Target Audience
+בעלי בתים פרטיים וקבלנים
+
+## Industry
+בנייה ושיפוצים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e7ddd846.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e7ddd846.zappy5.app/robots.txt
